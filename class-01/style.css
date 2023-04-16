@@ -1,0 +1,19 @@
+#header {
+  font-size: 2rem;
+  font-weight: lighter;
+  font-style: oblique;
+}
+
+#parent {
+  padding: 2rem;
+  border: 1px solid red;
+}
+
+#child {
+  padding: 2rem;
+  border: 1px solid blue;
+}
+
+span {
+  margin: 0.5rem;
+}
